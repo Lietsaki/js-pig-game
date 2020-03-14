@@ -1,0 +1,15 @@
+{
+  "name": "dom-pig-game",
+  "version": "1.0.0",
+  "description": "**GAME RULES:**",
+  "main": "challenges.js",
+  "scripts": {
+    "start-dev": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {}
+}
