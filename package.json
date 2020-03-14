@@ -6,7 +6,7 @@
   "scripts": {
     "start-dev": "live-server"
   },
-  "author": "",
+  "author": "Ricardo Sandez",
   "license": "ISC",
   "dependencies": {
     "live-server": "^1.2.1"
