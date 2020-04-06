@@ -12,3 +12,6 @@ To start the game:
 
 1. In your terminal, run `npm install` to install all the packages used by this app (only live-server).
 2. Run `npm run start-dev` to create a local server and automatically run the game.
+
+
+Note:  I worked on this project to learn JavaScript and hence it is not original work.
